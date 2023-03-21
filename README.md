@@ -1,2 +1,8 @@
 # PUT_SK2-Checkers
-client-server checkers game for Computer Networks class
+
+
+## Screenshots
+
+![](ss1.jpg)
+![](ss2.jpg) ![](ss3.jpg)
+
