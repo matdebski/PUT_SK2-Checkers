@@ -1,6 +1,25 @@
 # PUT_SK2-Checkers
 client-server checkers game for Computer Networks class
 
+## Installation
+
+Requirements:
+Python, PyGame, C++ compiler
+
+PyGame installation:
+> pip install pygame
+
+1. Compile server file
+> g++ -pthread -Wall server.cpp -o server
+
+2. Run server
+> ./server
+
+3. Run client
+> python client.py <ip_address>
+
+
+
 ## Screenshots
 
 ### Lobby Screen
