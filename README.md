@@ -5,7 +5,9 @@ client-server checkers game for Computer Networks class
 ## Installation
 
 Requirements:
+
 Server - Linux
+
 Client - Windows/Linux
 
 Python, PyGame, C++ compiler
