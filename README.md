@@ -1,11 +1,13 @@
 # PUT_SK2-Checkers
 client-server checkers game for Computer Networks class
-Server - Linux
-Client - Windows/Linux
+
 
 ## Installation
 
 Requirements:
+Server - Linux
+Client - Windows/Linux
+
 Python, PyGame, C++ compiler
 
 PyGame installation:
