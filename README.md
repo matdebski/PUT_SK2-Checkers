@@ -1,5 +1,7 @@
 # PUT_SK2-Checkers
 client-server checkers game for Computer Networks class
+Server - Linux
+Client - Windows/Linux
 
 ## Installation
 
